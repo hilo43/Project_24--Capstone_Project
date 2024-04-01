@@ -4,4 +4,4 @@ Objective 2 : Create a website or cell phone app to predict the sign if you poin
 
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-Note: I developed an algorithm that can recognize just these signs. While I accomplished the 1st task, I couldn't accomplish the 2nd.
+Note: I developed an algorithm that can recognize just these signs. While I accomplished the 1st objective, I couldn't accomplish the 2nd.
